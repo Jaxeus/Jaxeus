@@ -20,7 +20,7 @@ and I am finishing up a Level 5 certificate in Cloud and DevOps Development thro
 <li>Agile Practices, GitHub, Docker, CI/CD, DevOPS, Software Testing, Deployment and Hosting</li>
 </ul>
 
-😃 I work part-time as a Support Worker for clients with spinal injuries
+🚶‍♂️ I work part-time as a Support Worker for clients with spinal injuries
 <br />
 ⚽ I enjoy board games, sports (football/soccer, tennis and pickleball), food & cooking, and time with friends
 <br />
